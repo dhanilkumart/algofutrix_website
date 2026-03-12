@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 568.28 86.88">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: #0aeffe;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        font-family: NVNerivoDemo-Bold, 'NV Nerivo Demo';
+        font-size: 77.22px;
+        font-weight: 700;
+      }
+
+      .cls-6 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <text class="cls-9" transform="translate(0 67.57)"><tspan class="cls-7" x="0" y="0">A</tspan><tspan class="cls-6" x="70.04" y="0">L</tspan><tspan class="cls-8" x="123.17" y="0">G</tspan><tspan class="cls-6" x="186.41" y="0">O</tspan><tspan class="cls-4" x="247.34" y="0">FUT</tspan><tspan class="cls-1" x="419.01" y="0">R</tspan><tspan class="cls-2" x="479.47" y="0">I</tspan><tspan class="cls-3" x="504.26" y="0">X</tspan></text>
+  <path class="cls-5" d="M218.02,26.07c-1.33,6.25-6.21,11.13-12.46,12.46h0c6.25,1.33,11.13,6.21,12.46,12.46,1.33-6.25,6.21-11.13,12.46-12.46h0,0c-6.25-1.33-11.13-6.21-12.46-12.46Z"/>
+</svg>
